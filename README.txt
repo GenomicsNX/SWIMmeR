@@ -6,5 +6,5 @@ Author: Paola Paci (paci@diag.uniroma1.it)
 
 See the User Guide for instructions on how to use SWIMmeR.
 
-[https://doi.org/10.1093/bioinformatics/btab657] 
+[https://doi.org/10.1093/bioinformatics/btab657]https://doi.org/10.1093/bioinformatics/btab657 
 
